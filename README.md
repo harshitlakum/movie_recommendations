@@ -46,16 +46,14 @@ Details on the SVM and MLP models, their hyperparameters, and their test set per
 
 ## Authors
 
-- **Your Name**
+- Harshit Lakum
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
 - MovieLens 1M Dataset provided by GroupLens Research
-- Inspiration and guidance from [Your Mentor or Professor's Name]
+
 
 ---
 
