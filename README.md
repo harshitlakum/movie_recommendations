@@ -44,7 +44,7 @@ python mlp_model.py
 
 Details on the SVM and MLP models, their hyperparameters, and their test set performance can be found in the respective script files and results section.
 
-## Authors
+## Author
 
 - Harshit Lakum
 
